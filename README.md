@@ -14,7 +14,7 @@ Console 2:
 [small] Data received.  
 [small] Contains corrupted character �: false  
 [large] Data received.  
-[large] Contains corrupted character �: false
+[large] Contains corrupted character �: true
 
 ## Note
 Corrupted characters only appear when chunks split 
