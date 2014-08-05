@@ -9,6 +9,7 @@ var options = {
             ]
         }
     }
+	// Hopefully using this character works...
 	badCharacter = '�';
 
 var getText = function(file) {

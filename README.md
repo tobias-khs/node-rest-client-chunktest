@@ -3,18 +3,18 @@ Sample App for node-rest-client <=1.0.0 that checks whether the received chunks 
 
 ## Usage
 Console 1:
-> cd server
+> cd server  
 > ./server.sh
 
 Console 2:
-> npm install
+> npm install  
 > npm run start
 
 ### Sample Output:
-[small] Data received.
-[small] Contains corrupted character �: false
-[large] Data received.
-[large] Contains corrupted character �: false
+[small] Data received.  
+[small] Contains corrupted character ?: false  
+[large] Data received.  
+[large] Contains corrupted character ?: false
 
 
 ## Note
