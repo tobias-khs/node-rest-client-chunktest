@@ -1,0 +1,19 @@
+{
+    "name": "node-rest-client-sample",
+    "version": "0.0.1",
+    "author": "tobias-khs",
+    "description": "Test erroneous case of the node-rest-client",
+    "main": "main.js",
+    "repository": "git@github.com:tobias-khs/node-rest-client-chunktest.git",
+    "scripts": {
+        "start": "node --harmony ./main.js"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.4.x"
+    },
+    "dependencies": {
+        "node-rest-client": "~1.0.0"
+    }
+}
+
